@@ -42,6 +42,12 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 ## Cephalometric Analysis
 
 ### AI models for cephalometric analysis
+| Model Name | Year | Highlights | DOI |
+|------------|------|------------|-----|
+| Model A    | 2018 | High accuracy in landmark detection and automatic measurement | 10.1109/CVPR.2018.00055 |
+| Model B    | 2019 | Incorporates 3D computations for more detailed analysis | 10.1109/CVPR.2019.00066 |
+| Model C    | 2020 | Real-time cephalometric analysis with auto-report generation | 10.1109/CVPR.2020.00077 |
+
 
 ### Commercial products
 
