@@ -1,6 +1,5 @@
-# Awesome Generative AI [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-> A curated list of modern Generative Artificial Intelligence projects and services.
-
+# Awesome Orthodontcs AI [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+> A curated list of modern Orthodontics Artificial Intelligence projects and services.
 
 In the context of orthodontics, advanced artificial intelligence technologies play a crucial role in creating realistic models, predicting treatment outcomes, and personalizing treatment plans. These technologies, which include generative AI, machine learning, and data analytics, can produce detailed 3D images of patient cases or help dental professionals visualize the results of various orthodontic procedures. The outputs are often highly accurate and can be used for educational purposes, planning complex cases, enhancing patient consultations, and streamlining the overall treatment process.
 
