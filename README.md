@@ -7,60 +7,68 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ## Contents
 
-- [Digital smile design](#digital-smile-design)
-   - [AI models for cephalometric analysis](#ai-models-for-cephalometric-analysis)
-   - [Commercial products](#commercial-products)
-- [CBCT Analysis](#cephalometric-analysis)
-   - [AI models for CBCT analysis](#ai-models-for-CBCT-analysis)
-   - [Commercial products](#commercial-products)
+- [Digital Smile Design](#digital-smile-design)
+- [CBCT Analysis](#cbct-analysis)
+   - [AI Models for CBCT Analysis](#ai-models-for-cbct-analysis)
+   - [Commercial Products](#commercial-products)
 - [Cephalometric Analysis](#cephalometric-analysis)
-   - [AI models for cephalometric analysis](#ai-models-for-cephalometric-analysis)
-   - [Commercial products](#commercial-products)
+   - [AI Models for Cephalometric Analysis](#ai-models-for-cephalometric-analysis)
+   - [Commercial Products](#commercial-products)
 - [Digital Orthodontic Models](#digital-orthodontic-models)
-   - [Taking measurements](#taking-measurements)
-   - [segmentation](#segmentation)
+   - [Taking Measurements](#taking-measurements)
+   - [Segmentation](#segmentation)
 - [Orthodontic Treatment Planning](#orthodontic-treatment-planning)
-   - [Simulation-based treatment planning](#simulation-based-treatment-planning)
-   - [Predictive models for treatment outcome](#predictive-models-for-treatment-outcome)
-- [LLM and Autonomous agents](#llm-and-autonomous-agents)
-- [Learning resources](#learning-resources)
-- [More lists](#more-lists)
+   - [Simulation-Based Treatment Planning](#simulation-based-treatment-planning)
+   - [Predictive Models for Treatment Outcome](#predictive-models-for-treatment-outcome)
+- [Dental Implant Planning](#dental-implant-planning)
+- [Orthodontic Photography](#orthodontic-photography)
+- [Machine Learning for Orthodontic Diagnosis](#machine-learning-for-orthodontic-diagnosis)
+- [Speech and Voice Recognition in Orthodontics](#speech-and-voice-recognition-in-orthodontics)
+- [LLM and Autonomous Agents](#llm-and-autonomous-agents)
+- [Learning Resources](#learning-resources)
+- [More Lists](#more-lists)
+
+## Digital Smile Design
+
+| Title | Year | Highlights | DOI |
+|------------|------|------------|-----|
+| "Dynasmile: Video-based smile analysis software in orthodontics" | 2025 | 1. 首款基于AI的视频微笑分析集成软件；2. 采用Deepface和MobileFaceNet算法实现自动化分析；3. 分析效率提升80%(<3.5分钟/案例)；4. 可检测15个面部标志点和8项测量指标；5. 开源软件(Apache License)支持临床研究 |10.1016/j.softx.2024.102004
 
 
+## CBCT Analysis
 
+### AI Models for CBCT Analysis
 
-
+### Commercial Products
 
 ## Cephalometric Analysis
 
-### AI models for cephalometric analysis
-| Model Name | Year | Highlights | DOI |
-|------------|------|------------|-----|
-| Model A    | 2018 | High accuracy in landmark detection and automatic measurement | 10.1109/CVPR.2018.00055 |
-| Model B    | 2019 | Incorporates 3D computations for more detailed analysis | 10.1109/CVPR.2019.00066 |
-| Model C    | 2020 | Real-time cephalometric analysis with auto-report generation | 10.1109/CVPR.2020.00077 |
+### AI Models for Cephalometric Analysis
 
+### Commercial Products
+## Digital Orthodontic Models
 
-### Commercial products
+### Taking Measurements
+
+### Segmentation
 
 ## Orthodontic Treatment Planning
 
-### Simulation-based treatment planning
+### Simulation-Based Treatment Planning
 
-### Predictive models for treatment outcome
+### Predictive Models for Treatment Outcome
 
 ## Dental Implant Planning
 
 ## Orthodontic Photography
 
-## Digital Orthodontic Models
-
 ## Machine Learning for Orthodontic Diagnosis
 
 ## Speech and Voice Recognition in Orthodontics
 
-## Learning resources
+## LLM and Autonomous Agents
+## Learning Resources
 
-## More lists
+## More Lists
 
-## Autonomous agents
+
